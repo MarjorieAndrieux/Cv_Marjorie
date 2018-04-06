@@ -1,0 +1,36 @@
+#photoprofil{
+    width: 30vh;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10vh;
+}
+
+.shadow{
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.11);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.11);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.11);
+}
+
+.card-marge{
+    margin-bottom: 2%;
+}
+
+.titre-alignement{
+    text-align: center;
+}
+
+.icones{
+    height: 30px;
+    width: 30px;
+    fill: #8a817c;
+    margin-right: 5%;
+}
+
+.nav-link{
+    color: black;
+}
+
+.topcard{
+    margin-top:60px;
+}
